@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoachCarr
-- 👀 I’m interested in ... stuff
-- 🌱 I’m currently learning ... code
+- 👀 I’m interested in ... code
+- 🌱 I’m currently learning ... life
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... www.charlesleecarr.com
 
